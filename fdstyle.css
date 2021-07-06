@@ -53,6 +53,6 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
        background-color: moccasin;
        text-align: center;
        border-radius: 10px;
-       border: brown solid 10px;
+       border: rgba(180, 6, 6, 0.486) solid 10px;
    }
     
