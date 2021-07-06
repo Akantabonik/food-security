@@ -1,0 +1,41 @@
+body{
+font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Lovbeing{
+    color: chocolate;
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 166, 0, 0.37), red);
+    color: white;
+     padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+    .img{
+        width: 500px;
+    }
+    section{
+        display: flex;
+        margin: 100px;
+
+    }
+    .h-w{
+        width: 100%;
+        padding: 5%;
+    }
+   .h-w img{
+       width: 100%;
+   }
+   h3{
+       text-align: center;
+   }
+   .About-cs{
+       background-image: url(images/Frame\ 58.jpg);
+       
+   }
+   .My-recipies{
+       text-align: center;
+   }
+   
+    
