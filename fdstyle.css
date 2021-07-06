@@ -12,9 +12,7 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
     font-weight: 700;
     border-radius: 20px;
 }
-    .img{
-        width: 500px;
-    }
+    
     .flexible-cnt{
         display: flex;
         margin: 100px;
@@ -23,6 +21,7 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
     .h-w{
         width: 100%;
         padding: 5%;
+    
     }
    .h-w img{
        width: 100%;
@@ -38,5 +37,22 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
    .My-recipies{
        text-align: center;
    }
-   
+   .healthy{
+        width: 100%;
+        padding: 5%;
+        box-shadow: 10px 15px 30px tomato;
+        margin-left: 5%;
+        margin-left: 5%;
+        border-radius: 10px;
+
+   }
+   .healthy img{
+       width: 100%;
+   }
+   .Footer{
+       background-color: moccasin;
+       text-align: center;
+       border-radius: 10px;
+       border: brown solid 10px;
+   }
     
