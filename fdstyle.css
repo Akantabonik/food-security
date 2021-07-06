@@ -15,7 +15,7 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
     .img{
         width: 500px;
     }
-    section{
+    .flexible-cnt{
         display: flex;
         margin: 100px;
 
@@ -32,6 +32,7 @@ font-family: 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans
    }
    .About-cs{
        background-image: url(images/Frame\ 58.jpg);
+       display: flex;
        
    }
    .My-recipies{
